@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc7eafc6-5d36-46b0-8437-de1f8be15d1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1heUiwsDRqmjR9yY6XbKXyIIC4Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc7eafc6-5d36-46b0-8437-de1f8be15d1d" name="Default Changelist" comment="" />
+      <created>1600371181515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600371181515</updated>
+      <workItem from="1600371183000" duration="929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="158" key="#Deployment" timestamp="1600371308557">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="343" y="158" key="#Deployment/0.0.1500.1000@0.0.1500.1000" timestamp="1600371308557" />
+    <state x="328" y="146" key="#SSH_Configurations" timestamp="1600371265454">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="328" y="146" key="#SSH_Configurations/0.0.1500.1000@0.0.1500.1000" timestamp="1600371265454" />
+  </component>
+</project>
