@@ -1,0 +1,11 @@
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 25px;
+  line-height: 50px;
+}
+
+
+body {
+  background-color: white;
+  margin: 20px;
+}

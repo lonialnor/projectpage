@@ -3,9 +3,29 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc7eafc6-5d36-46b0-8437-de1f8be15d1d" name="Default Changelist" comment="">
+    <list default="true" id="cc7eafc6-5d36-46b0-8437-de1f8be15d1d" name="Default Changelist" comment="project page 2 added">
+      <change afterPath="$PROJECT_DIR$/css/style2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +71,8 @@
       <workItem from="1600371183000" duration="1461000" />
       <workItem from="1600462932030" duration="623000" />
       <workItem from="1600708537412" duration="11000" />
+      <workItem from="1600885127839" duration="270000" />
+      <workItem from="1600977936381" duration="1469000" />
     </task>
     <task id="LOCAL-00001" summary="new home link">
       <created>1600372281377</created>
@@ -59,11 +81,30 @@
       <option name="project" value="LOCAL" />
       <updated>1600372281377</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new home link">
+      <created>1600885163804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600885163804</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new home link" />
@@ -86,6 +127,10 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="548" y="205" key="Github.UntrackedFilesDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1600372143145" />
+    <state x="343" y="233" key="Vcs.Push.Dialog.v2" timestamp="1600885155068">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="343" y="233" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1600885155068" />
     <state x="413" y="216" width="672" height="678" key="search.everywhere.popup" timestamp="1600372356580">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
